@@ -24,7 +24,7 @@ background-color: rgb(231, 231, 231);
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 65px;
+    height: 70px;
    
     
     background-color: rgb(231, 231, 231);
@@ -82,3 +82,17 @@ display: flex;
    margin-left: 15px;
     
     }
+
+    
+#footer{
+
+    margin: 15px 10px 15px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+   
+    
+    background-color: rgb(231, 231, 231);
+
+}
