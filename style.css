@@ -30,3 +30,55 @@ background-color: rgb(231, 231, 231);
     background-color: rgb(231, 231, 231);
 
 }
+
+
+#mainContent{
+
+
+
+
+    margin: 15px 10px 15px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+   
+    
+    background-color: rgb(255, 255, 255);
+
+
+}
+
+#leftContent{
+
+width: 20%;
+display: flex;
+    justify-content: center;
+    align-items: center;
+  background-color: rgb(231, 231, 231);
+  height: 350px;
+ margin-right: 15px;
+
+ }
+#centerContent{
+
+
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(231, 231, 231);
+  height: 350px;
+}
+
+#rightContent{
+     
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(231, 231, 231);
+  height: 350px;
+   margin-left: 15px;
+    
+    }
