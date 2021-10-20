@@ -1,18 +1,32 @@
 
 body{
-font-family:  sans-serif;
-
-
+ 
+  font-family:  Helvetica, sans-serif;
+  
 }
 #header{
 
-    margin: 20px 10px 15px 10px;
+    margin: 20px 10px 10px 10px;
 display: flex;
 justify-content: center;
 align-items: center;
 height: 110px;
 
 
-background-color: rgb(221, 221, 221);
+background-color: rgb(231, 231, 231);
+
+}
+
+
+#navMenu{
+
+    margin: 15px 10px 15px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 65px;
+   
+    
+    background-color: rgb(231, 231, 231);
 
 }
